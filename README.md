@@ -6,3 +6,5 @@
 **2. Enable Developer mode**
 **3. Click "Load unpacked" and select the extracted folder**
 
+**Screenshot**
+![alt text](bible.jpg)
